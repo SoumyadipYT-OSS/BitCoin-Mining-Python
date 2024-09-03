@@ -6,6 +6,8 @@ Bitcoin is a decentralized digital currency that operates without the need for a
 
 Unlike traditional currencies, Bitcoin is not issued or regulated by any central entity. Instead, it relies on a peer-to-peer network to process transactions and maintain the blockchain. This decentralized nature allows Bitcoin to offer several unique advantages:
 
+<img src="https://th.bing.com/th/id/OIP.KmF5pKjdsyhAt5pZl_tKygAAAA?rs=1&pid=ImgDetMain" alt="Bitcoin Mining" width="600" height="400">
+
 
 **1. Transparency:** All Bitcoin transactions are recorded on a public ledger, making it easy to trace and verify transactions.
 
