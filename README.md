@@ -21,6 +21,7 @@ Unlike traditional currencies, Bitcoin is not issued or regulated by any central
 
 # BitCoin technical analysis
 <img src="https://s3.tradingview.com/l/lHYVdyVQ_big.png" width="600" height="400">
+
 **1. Understand the Basics**
 Before diving into technical analysis, familiarize yourself with the basic concepts:
 
