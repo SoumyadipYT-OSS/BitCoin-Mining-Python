@@ -37,6 +37,7 @@ Select a platform that provides comprehensive charting tools and real-time data.
 • Moving Averages: Use moving averages (e.g., 50-day, 200-day) to smooth out price data and identify trends. A common strategy is to look for crossovers between short-term and long-term moving averages.
 
 **4. Analyze Candlestick Patterns**
+<img src="https://lh3.googleusercontent.com/pP_EROfTddsLrBmySXB7vlULnlOPKXC5XkqxqrC9v4--ryb_EHeHk5K8LFIbl-isoOyRHEPyxq-vZ2Tx5KoLFbnjK1fXzG-Fv-RXJEa5MM-tunJC-fjxV5HKKEbkzF8EcvV5_APB" width="600" height="400">
 Learn to recognize common candlestick patterns that indicate potential market reversals or continuations:
 
 • Bullish Patterns: Hammer, Bullish Engulfing, Morning Star.
